@@ -1,0 +1,46 @@
+
+.ratetag {
+    border: 2px solid rgb(31, 205, 60);
+    height: 35px;
+    width: 65px;
+    background-color: rgb(34, 214, 73);
+    border-radius: 20px;
+    font-size: 16px;
+    padding: 3px;
+}
+.product-card{
+    border: 2px solid rgb(222, 227, 223);
+    border-radius: 30px;
+    height: 350px;
+    width: 230px;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+}
+.product-card img{
+margin-top: -25px;
+}
+.innercard{
+    display: flex;
+    /* margin: 4px; */
+    padding: 10px;
+    font-size: 10px;
+}
+.innercard li{
+    margin-left: -10px;
+
+}
+.innercard p{
+    margin-left: 85px;
+
+}
+.addToCart{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 20px;
+    border: 2px solid rgb(41, 214, 101);
+    height: 3%;
+    padding: 10px 10px 35px 20px;
+    border-radius: 20px;
+    background-color: rgb(42, 199, 45);
+    color: white;
+}

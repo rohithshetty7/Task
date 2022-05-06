@@ -1,0 +1,82 @@
+
+.unorderdlist li{
+    list-style-type: none;
+}
+/* .card li{ */
+/* border: 2px solid red; */
+/* text-align: center; */
+    /* padding: 20px; */
+    
+/* } */
+
+
+.card{
+/* border: 2px solid red; */
+/* height: 15rem; */
+width: 13rem;
+    
+}
+.card {
+    /* border: 2px solid red; */
+    /* height: 200px; */
+    /* width: 200px; */
+        /* margin-top: 20px; */
+        /* padding-top: 20px; */
+        /* padding-bottom: 20px; */
+        margin-bottom: 100px;
+        background-color: rgb(21, 61, 61);
+    }
+    
+    .unorderdlist{
+        margin-top: 20px;
+        /* margin-bottom: 20px; */
+        margin-left: -40px;
+        text-align: center;
+        
+    }
+    .unorderdlist li{
+padding-bottom: 10px;
+    }
+    .featured{
+        border: 2px solid rgb(141, 226, 133);
+        border-radius: 40px;
+        color: white;
+        background-color: rgb(166, 223, 166);
+        padding: 5px;
+        /* height: 10px; */
+        width: 8rem;
+        margin-left: 40px;
+        margin-bottom: 10px;
+    }
+    .featured :hover li{
+        background-color: #3e8e41
+    }
+
+    .productcard{
+        display: flex;
+        justify-content: space-between;
+        /* margin: 10px; */
+        /* padding: px; */
+    }
+    .productImage{
+        height: 20px;
+        width: 20%;
+    }
+   .product{
+       margin-left: 50px;
+       margin-top: 100px;
+   }
+   .sortIcon {
+       font-size: 25px;
+       float: left;
+       margin-top: -30px;
+    margin-left: 20px;
+
+   }
+   .sortText{
+    float: left;
+    margin-top: -34px;
+    font-size: 20px;
+    margin-left: 20px;
+
+   }

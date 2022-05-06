@@ -1,0 +1,65 @@
+.container{
+    margin-top: 200px;
+    height: 400px;
+}
+
+.footerList{
+    font-size: 15px;
+    list-style: none;
+}
+
+.footerList li{
+    padding: 5px;
+}
+ .mycard{
+    /* margin-top: -200px; */
+    border: 2px solid rgb(38, 200, 38);
+    height: 300px;
+    border-radius: 30px;
+    width: -10px;
+    background-color: rgb(104, 216, 104);
+    margin-left: -30px;
+    color: white;
+}
+/*
+.card_1{
+    position: relative;
+} */
+.cardButton{
+    border: 2px solid rgb(250, 255, 250);
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: hsl(37, 100%, 37%);
+
+}
+.input{
+    border: 2px solid rgb(104, 234, 104);
+    border-radius: 20px;
+    background-color: hsl(105, 75%, 45%);
+}
+.socialmedia{
+display: flex;
+/* margin: 10px; */
+  /* padding: 20px; */
+  font-size: 20px;
+  /* text-align: center; */
+
+}
+.socialmedia ImFacebook{
+margin-left: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
