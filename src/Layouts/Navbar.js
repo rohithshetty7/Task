@@ -9,7 +9,7 @@ import im3 from "../components/pictures/picture2.PNG";
 
 function Navbar() {
     return ( 
-    <div> 
+    <div className='mt-4'> 
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <Link class="navbar-brand" to="/">
     <img  height={"100px"} width={"100px"} src={logo} />
